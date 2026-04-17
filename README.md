@@ -3,7 +3,7 @@
 Overview
 This project analyzes retail sales transaction data using SQL to generate actionable business insights. The dataset includes customer details, product information, order timestamps, payment modes, and order status.
 
-# The goal is to solve key business problems related to revenue optimization, customer behavior, and operational efficiency through structured data analysis.
+The goal is to solve key business problems related to revenue optimization, customer behavior, and operational efficiency through structured data analysis.
 
 ## Business Problem 
 The retail business lacks visibility into: 
@@ -11,7 +11,7 @@ The retail business lacks visibility into:
 2. Customer purchasing patterns
 3. Product profitability
 4. Order and delivery inefficiencies
-# This results in missed revenue opportunities and poor decision-making.
+ This results in missed revenue opportunities and poor decision-making.
 
 ## Objectives
 1. Identify top-performing products and categories
