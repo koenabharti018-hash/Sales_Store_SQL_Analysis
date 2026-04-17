@@ -11,7 +11,7 @@ The retail business lacks visibility into:
 2. Customer purchasing patterns
 3. Product profitability
 4. Order and delivery inefficiencies
- This results in missed revenue opportunities and poor decision-making.
+# This results in missed revenue opportunities and poor decision-making.
 
 ## Objectives
 1. Identify top-performing products and categories
